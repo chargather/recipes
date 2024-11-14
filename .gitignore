@@ -1,2 +1,3 @@
-*.png
-receipts/
+*.png #ignores all .png files
+receipts/ 
+!final.png #except final.png
