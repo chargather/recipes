@@ -5,3 +5,4 @@
 * salt
 * more salt
 * even more salt
+* maybe some garlic salt too
